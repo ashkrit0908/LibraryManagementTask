@@ -12,7 +12,6 @@ The Library Management System is a console-based application written in Go. It a
 ## Installation
 To use the Library Management System, follow these steps:
 * Clone the repository to your local machine:
-  git clone <repository_url>
-* Navigate to Project Directory: cd library_management_system
+  git clone https://github.com/ashkrit0908/LibraryManagementTask
 * Build the Project: go build
 * Run test cases: go test test/library_test.go
